@@ -1,0 +1,12 @@
+a {
+    display: block;
+}
+
+body {
+    background-color:#2c3e4c;
+    align-items: center;
+}
+
+img {
+    width: 500px;
+}
