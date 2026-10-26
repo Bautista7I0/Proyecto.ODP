@@ -44,16 +44,20 @@
                     </ul>
                 </li>
                 <li>
-                    Biblioteca
-                    <ul>
-                        <li><a href="https://www.neuquen.edu.ar/calendario-escolar-situado/">CES &#8211; Calendario Escolar Situado</a></li>
-                        <li><a href="http://bibliotecedie.neuquen.gov.ar/">CeDIE Centro de Documentación</a></li>
-                        <li><a href="https://bibliotecacedie.neuquen.edu.ar/">Catálogo en Línea CeDIE</a></li>
-                        <li><a href="https://www.neuquen.edu.ar/resoluciones-del-consejo-federal-de-educacion-2016/">Resoluciones del Consejo Federal de Educación a partir del 2016</a></li>
-                    </ul>
+                  Biblioteca
+                  <ul>
+                    <li><a href="https://www.neuquen.edu.ar/calendario-escolar-situado/">CES &#8211; Calendario Escolar Situado</a></li>
+                    <li><a href="http://bibliotecedie.neuquen.gov.ar/">CeDIE Centro de Documentación</a></li>
+                    <li><a href="https://bibliotecacedie.neuquen.edu.ar/">Catálogo en Línea CeDIE</a></li>
+                    <li><a href="https://www.neuquen.edu.ar/resoluciones-del-consejo-federal-de-educacion-2016/">Resoluciones del Consejo Federal de Educación a partir del 2016</a></li>
+                  </ul>
                 </li>
-                    <li><a href="https://www.neuquen.edu.ar/noticias/">Noticias</a></li>
-                    <li><a href="https://educaciondigital.neuquen.gov.ar/">Educación Digital</a></li>
+                <li>
+                  <a href="https://www.neuquen.edu.ar/noticias/">Noticias</a>
+                </li>
+                <li>
+                  <a href="https://educaciondigital.neuquen.gov.ar/">Educación Digital</a>
+                </li>
             </ul>
         </nav>
     </header>
